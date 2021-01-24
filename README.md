@@ -7,7 +7,7 @@ Punycode.js is a robust Punycode converter that fully complies to [RFC 3492](htt
 ## Usage
 
 ```js
-import unicode from "https://deno.land/x/punycode/punycode.js";
+import punycode from "https://deno.land/x/punycode/punycode.js";
 ```
 
 ## API
